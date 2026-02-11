@@ -9,9 +9,9 @@ Currently Learning: Advancing to perfect skills and move into full stack develop
 Fun fact: I built a weather app and a flood prediction system!
 
 
- 🛠️ Tech Stack
+  Tech Stack
 
-**Frontend:**  
+Frontend:
 JavaScript
 HTML5
 CSS3]
